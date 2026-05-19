@@ -29,7 +29,6 @@
 
 🎓 **Graduated Information Technology Student** @ **SGU - Saigon University** | **GPA: 2.91**  
 📍 Based in **Ho Chi Minh City, Vietnam** 🇻🇳
-I am passionate about designing and developing intelligent web-based systems integrated with AI technologies to solve real-world challenges through modern architectures, scalable solutions, and data-driven innovation — bridging the gap between academic research and practical application.
 💡 I'm passionate about designing and developing intelligent **Web-based** systems integrated with **AI technologies** to solve real-world challenges through modern architectures, scalable solutions, and data-driven innovation — bridging the gap between **academic research and practical application**.
 
 <br>
