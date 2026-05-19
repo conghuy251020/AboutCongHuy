@@ -27,8 +27,9 @@
 
 ### 👋 Hello World! I'm **Cong Huy**
 
-🎓 **Graduated Information Technology Student** @ **SGU - Saigon University** | **GPA: 2.91**  
+🎓 **Graduated Information Technology Student** @ **SGU** | **GPA: 2.91**  
 📍 Based in **Ho Chi Minh City, Vietnam** 🇻🇳
+<br>
 💡 I'm passionate about designing and developing intelligent **Web-based** systems integrated with **AI technologies** to solve real-world challenges through modern architectures, scalable solutions, and data-driven innovation — bridging the gap between **academic research and practical application**.
 
 <br>
