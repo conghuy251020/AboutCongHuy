@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=700&lines=%F0%9F%8E%93+Information+Technology+Graduate+%40+SGU;%F0%9F%92%BB+Fullstack+Web+Developer+%26+Software+Engineering+Enthusiast;%F0%9F%A4%96+Building+AI-Powered+Web+Applications+%26+Chatbots;%F0%9F%9A%80+Passionate+about+Backend+Systems%2C+APIs+%26+Modern+Technologies" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=700&lines=%F0%9F%8E%93+Information+Technology+Graduate+%40+SGU;%F0%9F%92%BB+ Fullstack+Web+Developer+%26+Software+Engineering+Enthusiast;%F0%9F%A4%96+Building+AI-Powered+Web+Applications+%26+Chatbots;%F0%9F%9A%80+Passionate+about+Backend+Systems%2C+APIs+%26+Modern+Technologies" alt="Typing SVG" />
 </a>
 </p>
 
